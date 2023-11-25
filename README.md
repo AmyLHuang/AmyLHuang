@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amy Huang and I am a 3nd year UCI student majoring in Computer Science. 
+My name is Amy Huang and I am a 4th year UCI student majoring in Computer Science. 
 My pronouns are she/her/hers. 
 I started being interested in CS at the end of high school, decided to choose it as my major, and have no regrets. 
 My current interests include Artificial Intelligence, Data Management, and Web Development. 
