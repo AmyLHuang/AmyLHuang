@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-My name is Amy Huang and I am a 4th year UCI student majoring in Computer Science. 
-My pronouns are she/her/hers. 
+My name is Amy Huang (pronouns she/her/hers). 
 I started being interested in CS at the end of high school, decided to choose it as my major, and have no regrets. 
 My current interests include Artificial Intelligence, Data Management, and Web Development. 
 I have learned three programming languages: Python, C++, and Java. 
 In my spare time, I enjoy reading, watching YouTube, and coding.
 
 Feel free to reach out to me:  
-email: goten02028@gmail.com
+email: amyhuang8119@gmail.com
 
 
 
