@@ -1,28 +1,26 @@
-### Hi there 👋
+<div align=center>
 
-My name is Amy Huang (pronouns she/her/hers). 
-I started being interested in CS at the end of high school, decided to choose it as my major, and have no regrets. 
-My current interests include Artificial Intelligence, Data Management, and Web Development. 
-In my spare time, I enjoy reading, watching YouTube, and coding.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Amy%20Huang&textBg=false&fontAlign=50&animation=fadeIn&fontSize=40&fontAlignY=27&desc=Web%20Developer%20|%20AI/ML%20Developer&descAlignY=45" width="100%" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amyhuang19/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=web&logoColor=white)](https://amylhuang.github.io/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:amyhuang8119@gmail.com)
 
-Feel free to reach out to me:  
-email: amyhuang8119@gmail.com
+</div>
 
+---
 
+### 👋 About Me
+- Pronouns: she/her/hers
+- UCI grad, class of 2024, major in Computer Science
+- Current interests: AI, Data Management, Web Development 
+- Hobbies: reading, watching YouTube, coding
 
+---
 
+## 🛠️ Tech Stack
+Programming Languages: Python, Java, HTML, CSS, JavaScript
 
-<!--
-**AmyLHuang/AmyLHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
