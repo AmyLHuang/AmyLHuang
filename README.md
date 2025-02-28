@@ -11,10 +11,9 @@
 ---
 
 ### 👋 About Me
-- Pronouns: she/her/hers
-- UCI grad, class of 2024, major in Computer Science
+- UCI '24, majored in Computer Science, specialized in Intelligent Systems
 - Current interests: AI, Data Management, Web Development 
-- Hobbies: reading, watching YouTube, coding
+- Casual Hobbies: reading, watching YouTube, coding
 
 ---
 
