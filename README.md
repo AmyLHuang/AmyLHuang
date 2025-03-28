@@ -1,6 +1,6 @@
 <div align=center>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Amy%20Huang&textBg=false&fontAlign=50&animation=fadeIn&fontSize=40&fontAlignY=27&desc=Web%20Developer%20|%20AI/ML%20Developer&descAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Amy%20Huang&textBg=false&fontAlign=50&animation=fadeIn&fontSize=40&fontAlignY=27&desc=Data%20Analyst%20|%20Web%20Developer%20|%20AI/ML%20Developer&descAlignY=45" width="100%" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amyhuang19/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=web&logoColor=white)](https://amylhuang.github.io/)
@@ -17,8 +17,16 @@
 
 ---
 
-## 🛠️ Tech Stack
-Programming Languages: Python, Java, HTML, CSS, JavaScript
+### 🖥️ Tech Stack
+
+**Programming Languages:**  
+`Python` `Java` `JavaScript` `HTML` `CSS` `SQL`  
+
+**Databases & Related Technologies:**  
+`MongoDB` `Firebase` `MySQL` `PostgreSQL`
+
+</div>
+
 
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
