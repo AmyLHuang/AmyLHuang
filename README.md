@@ -11,6 +11,7 @@
 ---
 
 ### 👋 About Me
+- Currently a Data Analytics Fellow @ COOP, gaining hands-on experience with SQL, Excel, and Tableau while developing communication and collaboration skills in a team setting
 - UCI '24, majored in Computer Science, specialized in Intelligent Systems
 - Current interests: AI, Data Analytics, Database Management, Web Development 
 - Casual Hobbies: reading, watching YouTube, coding
