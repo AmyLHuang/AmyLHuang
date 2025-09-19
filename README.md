@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 - UCI '24, majored in Computer Science, specialized in Intelligent Systems
-- Current interests: AI, Data Management, Web Development 
+- Current interests: AI, Data Analytics, Database Management, Web Development 
 - Casual Hobbies: reading, watching YouTube, coding
 
 ---
@@ -20,10 +20,10 @@
 ### 🖥️ Tech Stack
 
 **Programming Languages:**  
-`Python` `Java` `JavaScript` `HTML` `CSS` `SQL`  
+`Python` `SQL` `Java` `JavaScript` `HTML` `CSS`   
 
 **Databases & Related Technologies:**  
-`MongoDB` `Firebase` `MySQL` `PostgreSQL`
+`Power BI` `Tableau` `MongoDB` `Firebase` `MySQL` `PostgreSQL`
 
 </div>
 
